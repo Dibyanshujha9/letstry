@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/letstry/static/css/main.728fdd75.css",
+    "main.js": "/letstry/static/js/main.9a0576f3.js",
+    "static/media/own1.jpg": "/letstry/static/media/own1.75cf2ab86e6c8529a112.jpg",
+    "static/media/own2.jpg": "/letstry/static/media/own2.e85f10fc3807acfad388.jpg",
+    "static/media/file.jpg": "/letstry/static/media/file.d9ba8964cff256c45a1a.jpg",
+    "static/media/ml.jpg": "/letstry/static/media/ml.6b44a812b22b15d627fc.jpg",
+    "static/media/iot.jpg": "/letstry/static/media/iot.6d8f50bda19acc6dfe82.jpg",
+    "static/media/drone.jpg": "/letstry/static/media/drone.1ab976ab4cd237ac28e5.jpg",
+    "static/media/ai.jpg": "/letstry/static/media/ai.a5a0ebaae0a18ae8c996.jpg",
+    "static/media/appdev.jpg": "/letstry/static/media/appdev.a8fb2ec28d9680dcc493.jpg",
+    "static/media/hero-img.png": "/letstry/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/img2.svg": "/letstry/static/media/img2.f34cae1ae54dbc5ddedfe5f7023d63dc.svg",
+    "index.html": "/letstry/index.html",
+    "main.728fdd75.css.map": "/letstry/static/css/main.728fdd75.css.map",
+    "main.9a0576f3.js.map": "/letstry/static/js/main.9a0576f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.728fdd75.css",
+    "static/js/main.9a0576f3.js"
+  ]
+}
